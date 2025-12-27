@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in SRM UNIVERSITY 1st year<br>👯 I know python and c programming<br>🤝 I’m looking for help with developers<br>🌱 I’m currently learning java <br>💬 Ask me about<br>⚡ good at tech things
+🔭 First-year undergraduate at **SRM University**<br>👯 Familiar with **Python** and **C programming**<br>🤝Currently learning **Java**<br>🌱Open to collaborating with developers and contributing to projects<br>⚡ Passionate about technology and problem-solving
 
 
 ## 🌐 Socials:
